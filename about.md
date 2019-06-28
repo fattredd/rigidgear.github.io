@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/selfie.jpeg" align="left"/>
+<img src="/assets/selfie.jpeg" align="left" margin="5px 10px 5px 10px" />
 
 I’m Jack Butler, the owner of RigidGear LLC. I have been pursuing IT work since middle school. Although my day job is as a Software Controls Engineer, I moonlight as a friendly IT guy.
   
