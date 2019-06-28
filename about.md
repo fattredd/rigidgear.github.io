@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[!Photo of me](/assets/me.jpg)
+
 I’m Jack Butler, the owner of RigidGear LLC. I have been pursuing IT work since middle school. Although my day job is as a Software Controls Engineer, I moonlight as a friendly IT guy.
   
 I serve small businesses and individuals looking to improve their hardware. I’ve had experience working with a large assortment of installations and upgrades, and can handle anything from security cameras to enterprise networking.
