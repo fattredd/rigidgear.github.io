@@ -1,6 +1,8 @@
 # Site settings
 title: RigidGear LLC
 description: Human Technology
+
+name: RigidGear LLC
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png

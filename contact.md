@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact/
 ---
 
-[!Photo of me](/assets/me.jpg)
+![Photo of me](/assets/me.jpg)
 
 You can call me at any time at [(732) 882-7333‬](tel:7328827333‬)  
 If I'm unavailable go ahead and leave a message and I'll call you back as soon as I can.
