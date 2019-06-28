@@ -1,16 +1,8 @@
-hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
-  bio: Jai Shri Ram!
+jack:
+  username: jack
+  name: Jack Butler
+  location: Bel Air, MD
+  url_full: https://rigidgear.com/
+  url: https://rigidgear.com/
+  bio: 
   assets: assets/images/hanuman.png
-krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
-  assets: assets/images/favicon.png
