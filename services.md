@@ -16,7 +16,7 @@ This is one of my favorite things to do. I'll help you decide exactly what you n
 Remove viruses, update software, remove unwanted programs, and clean up your computer. This usually comes with a performance boost, but that depends on the initial state of your computer.
 
 ### Backup Solution Setup
-I'll figure out the best way to back up your data. It's generally a good idea to have both on-site and off-site backups, but the size and scale depend a lot on what data you have. I'll help figure out if you need a dedicated server for backups or if you're better off$
+I'll figure out the best way to back up your data. It's generally a good idea to have both on-site and off-site backups, but the size and scale depend a lot on what data you have. I'll help figure out if you need a dedicated server for backups or if you're better off with a couple flash drives in a safe somewhere.
 
 ### Laptop Repair
 Replace a broken screen, a dying battery, or  worn out keyboard.

@@ -34,6 +34,7 @@
     </ul>
     <nav class="ampstart-footer-nav">
         <ul class="list-reset flex flex-wrap mb3">
+            <!--
             {% if site.services %}
 
             <li class="px1">
@@ -48,8 +49,18 @@
 
             <li class="px1">
                 <a class="text-decoration-none ampstart-label" href="{{site.url}}{{site.contact}}">Contact</a>
-            </li>
+            </li>-->
             {% endif %}
+                {% for entry in site.data.navigation %}
+                {% if entry.url == current_page %}
+                    {% assign current = 'current' %}
+                {% else %}
+                    {% assign current = null %}
+                {% endif %}
+              <li class="px1">
+                  <a class="text-decoration-none ampstart-label" href="{{ site.url }}{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
+              </li>
+            {% endfor %}
         </ul>
     </nav>
     <small>

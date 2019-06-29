@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact/
 ---
 
-<img src="/assets/walking.png" align="left" margin="5px 10px 5px 10px" />
+<img src="/assets/selfie.jpeg" align="left" margin="5px 10px 5px 10px" />
 
 You can call me at any time at<br />
 [(732) 882-7333‬](tel:7328827333‬)  
