@@ -7,7 +7,7 @@ permalink: /contact/
 <img src="/assets/selfie.jpeg" align="left" >
 
 You can call me at any time at<br />
-[(732) 882-7333‬](tel:7328827333‬)  
+[(667) 225-7883‬](tel:6672257883‬)  
 If I'm unavailable go ahead and leave a message and I'll call you back as soon as I can.
 
 Alternatively, you can also email me here: [jack@rigidgear.com](mailto:jack@rigidgear.com)
